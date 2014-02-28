@@ -38,7 +38,7 @@
     });
 
     function factory(require, exports) {
-        var 
+        var
         $ = require('jquery'),
         lawnchair = require('lawnchair'),
         urlobj = require('url'), // http://github.com/1024bit/url
