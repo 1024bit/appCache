@@ -41,7 +41,7 @@
     var
       $ = require('jquery'),
       lawnchair = require('lawnchair'),
-      urlobj = require('url'), // http://github.com/1024bit/url
+      urlobj = require('url-browser'), // http://github.com/1024bit/url
       version = '', // Version no.
       cacheManifest = '', // Cache manifest url
       id = '', // encrypt(url)
